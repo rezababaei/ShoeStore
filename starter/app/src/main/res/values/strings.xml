@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">ShoeStore</string>
+    <string name="login">Login</string>
+    <string name="new_login">New Login</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="email_hint">email@example.com</string>
+    <string name="email">Email</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Shoe Store provides quality footwear at an affordable price. Whether shopping online or in one of our UK shops, we help you find the perfect fit. Our range is ideal for all ages, occasions, and styles. Plus, you’ll find affordable premium brand footwear from Hush Puppies, Skechers, Adidas, Nike and many more. Our collection offers affordable women’s shoes from one of the UK’s leading shoe retailers. We have everything you could need from smart flats to trainers, boots and the highest heels. DEICHMANN’s footwear is just as accommodating with a pair of men’s shoes for every occasion. Comfy trainers, formal dress shoes, casual boots, smart boots, sandals and more. We also have shoes for kids of all ages from fashionable trainers to smart black school shoes. Our children’s range is all sourced with comfort and durability in mind. With more than 100 stores now open nationwide, we’re the most reliable source of fashionable, affordable footwear in the UK and we’re confident we’ve got shoes that you’ll love.</string>
+    <string name="title">The Shoe Store</string>
+    <string name="next">Next</string>
+    <string name="logout">Logout</string>
+    <string name="detail">Detail</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="shoe_description">Shoe description</string>
+    <string name="description">Description</string>
+    <string name="shoe_size">Shoe Size</string>
+    <string name="size">Size</string>
+    <string name="company_name">Company Name</string>
+    <string name="company">Company</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="name">Name</string>
+    <string name="login_fragment_title">Login</string>
+    <string name="welcom_fragment_title">Welcome</string>
+    <string name="shoe_list_fragment_title">Shoe Listing</string>
+    <string name="shoe_detail_fragment_title">Shoe Detail</string>
+    <string name="instruction_fragment_title">Instruction</string>
+    <string name="shoe_app">Shoe App</string>
+    <string name="instruction_text">In Shoe list Page , user can add new shoes and see a list of added shoes \n\nto Add a Shoe detail \n please click on + button and then enter shoe Details</string>
+
+
+    <string name="_double">%d</string>
 </resources>
